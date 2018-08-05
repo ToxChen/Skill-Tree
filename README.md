@@ -12,7 +12,7 @@ DEMO : https://toxchen.github.io/Filter/ <br>
 UI設計稿 : https://www.behance.net/gallery/66903635/F2E-Week2-Filter <br>
 主要練習技術 : UI Design、RWD、Flexbox <br>
 
-## Week3 - Admin order
+## Week3 - Admin Order
 
 DEMO : https://toxchen.github.io/Admin-Order/ <br>
 UI設計稿 : https://www.behance.net/gallery/67178627/F2E-Week3-Admin-Order <br>
@@ -36,20 +36,17 @@ DEMO : https://toxchen.github.io/Validation/ <br>
 UI設計稿 :  <br>
 主要練習技術 : UI Design、Web Layout、Flexbox <br>
 
-## Week7 - 
+## Week7 - Canvas Game
 
-DEMO :<br>
-UI設計稿 :<br>
-主要練習技術 :<br>
+DEMO : https://codepen.io/azx011014/pen/PBGddd <br>
+主要練習技術 : Canvas <br>
 
-## Week8 - 
+## Week8 - Parallax Scroll
 
-DEMO :<br>
-UI設計稿 :<br>
-主要練習技術 :<br>
+DEMO : https://codepen.io/azx011014/pen/pZWmBV <br>
+主要練習技術 : TweenMax、TimelineMax <br>
 
-## Week9 - 
+## Week9 - Skill Tree
 
-DEMO :<br>
-UI設計稿 :<br>
-主要練習技術 :<br>
+DEMO : https://toxchen.github.io/Skill-Tree/ <br>
+主要練習技術 : Web Layout、Flexbox <br>
